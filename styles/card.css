@@ -48,3 +48,8 @@
 .btn:hover {
     background-color: antiquewhite;
 }
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+}
