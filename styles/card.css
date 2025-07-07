@@ -1,0 +1,45 @@
+.card-section {
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+.card {
+    width: 300px;
+    border: 4
+    px solid sandybrown;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px bisque;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card h3 {
+    font-size: 1.25em;
+    font-weight: 700;
+}
+
+.btn {
+    width: 100px;
+    background-color: aquamarine;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: antiquewhite;
+}
